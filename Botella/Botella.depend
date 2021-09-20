@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632165032 source:c:\users\ceci\iclouddrive\tpu\2do cuatri 2021\3. laboratorio ii\cpp\botella\botella\main.cpp
+	<iostream>
+	<clocale>
+	"Botella.h"
+
+1632164703 c:\users\ceci\iclouddrive\tpu\2do cuatri 2021\3. laboratorio ii\cpp\botella\botella\include\botella.h
+
+1632164662 source:c:\users\ceci\iclouddrive\tpu\2do cuatri 2021\3. laboratorio ii\cpp\botella\botella\src\botella.cpp
+	"Botella.h"
+	<iostream>
+	<clocale>
+
